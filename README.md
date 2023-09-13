@@ -1,7 +1,10 @@
-# DB Specifications
+IN 3400 - Assignment 01
 
-## USER SERVICE => My SQL
+    # DB Specifications
+    
+    ## USER SERVICE => My SQL
+    
+    ## INVENTORY SERVICE => AWS Dynamo DB
+    
+    ## ORDER SERVICE => Mongo DB
 
-## INVENTORY SERVICE => AWS Dynamo DB
-
-## ORDER SERVICE => Mongo DB
